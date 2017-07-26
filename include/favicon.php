@@ -1,1 +1,0 @@
-<link rel="icon" href="images/rilm.ico" type="image/gif" sizes="128x128"> 
